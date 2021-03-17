@@ -10842,6 +10842,7 @@ footer p {
 
 .navbar-store {
   padding-top: 15px;
+  background-color: #fff;
 }
 
 @media (max-width: 991.98px) {

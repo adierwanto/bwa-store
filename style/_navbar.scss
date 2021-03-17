@@ -1,5 +1,6 @@
 .navbar-store {
     padding-top: 15px;
+    background-color: #fff;
 
     @include media-breakpoint-down(md) {
         background-color: #fff !important;
